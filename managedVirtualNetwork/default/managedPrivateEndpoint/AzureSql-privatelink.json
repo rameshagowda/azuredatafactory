@@ -1,0 +1,7 @@
+{
+	"name": "AzureSql-privatelink",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/9b71f70d-471a-4168-b956-96c00a707a81/resourceGroups/medallion-lh-rg/providers/Microsoft.Sql/servers/lakehouse",
+		"groupId": "sqlServer"
+	}
+}

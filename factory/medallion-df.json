@@ -1,0 +1,9 @@
+{
+	"name": "medallion-df",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c85df3d7-41d6-4f8f-ba70-20ca9111a0c6",
+		"tenantId": "2a109937-e9f4-4867-b038-474c0f209966"
+	}
+}
